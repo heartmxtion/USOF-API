@@ -67,6 +67,6 @@ PATCH /api/categories/<category_id>: Update specified category data.<br/>
 DELETE /api/categories/<category_id>: Delete a category.<br/>
 
 # Comments Module:
-GET /api/comments/<comment_id>: Get specified comment data.
-PATCH /api/comments/<comment_id>: Update specified comment data.
-DELETE /api/comments/<comment_id>: Delete a comment.
+GET /api/comments/<comment_id>: Get specified comment data.<br/>
+PATCH /api/comments/<comment_id>: Update specified comment data.<br/>
+DELETE /api/comments/<comment_id>: Delete a comment.<br/>
